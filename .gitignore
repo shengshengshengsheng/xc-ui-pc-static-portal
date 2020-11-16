@@ -1,0 +1,3 @@
+# Project exclude paths
+/plugins/bootstrap/node_modules/
+.idea/
